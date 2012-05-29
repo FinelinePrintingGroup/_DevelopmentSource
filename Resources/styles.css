@@ -1,0 +1,46 @@
+﻿body 
+{    
+    background-color:#EEE;
+    font-family:Arial;
+}
+
+.header
+{
+    height:126px;    
+}
+
+a > img
+{ 
+    border: 0; 
+} 
+
+a
+{
+    font-weight:bold;
+    font-size:14pt;
+}
+
+.sideNav
+{
+    width:400px;
+    background-color:White;
+    padding:10px;
+    border:thick solid #0F1F51;
+    border-radius:6px
+}
+
+h2
+{
+    color:#0F1F51;
+}
+
+.passfail
+{
+    width: 400px;
+}
+
+.check
+{
+    padding-bottom:10px;
+}
+

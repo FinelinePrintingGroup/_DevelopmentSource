@@ -1,0 +1,1029 @@
+[19-Mar-2012 10:12:16] ( Order Number: PO-7519 ) => ( RollsRoyce ) => ( Order_ID: 3964253 ) => Entered
+[19-Mar-2012 10:12:16] ( Order Number: PO-7522 ) => ( RollsRoyce ) => ( Order_ID: 3964313 ) => Entered
+[19-Mar-2012 10:40:27] ( Order Number: PO-7523 ) => ( RollsRoyce ) => ( Order_ID: 3964416 ) => Entered
+[19-Mar-2012 10:42:24] JobN: 104416 - Entered
+[19-Mar-2012 10:42:25] Email sent to: printableajt@finelink.com - JT-27111 - New JobN - 104416
+[19-Mar-2012 10:42:25] JobN: 104417 - Entered
+[19-Mar-2012 10:42:25] Email sent to: printableajt@finelink.com - JT-27112 - New JobN - 104417
+[19-Mar-2012 10:42:25] JobN: 104418 - Entered
+[19-Mar-2012 10:42:26] Email sent to: printableajt@finelink.com - JT-27113 - New JobN - 104418
+[19-Mar-2012 10:44:06] File download successful for JT-27111
+[19-Mar-2012 10:44:07] File download successful for JT-27112
+[19-Mar-2012 10:44:08] File download successful for JT-27113
+[19-Mar-2012 10:48:01] XML creation success : JT-27111
+[19-Mar-2012 10:48:01] XML creation success : JT-27112
+[19-Mar-2012 10:48:01] XML creation success : JT-27113
+[19-Mar-2012 11:40:24] ( Order Number: IND2060352 ) => ( Cummins ) => ( Order_ID: 3964520 ) => Entered
+[19-Mar-2012 11:40:24] ( Order Number: 165210 ) => ( RocheCorp ) => ( Order_ID: 3964589 ) => Entered
+[19-Mar-2012 11:40:24] ( Order Number: 16501 ) => ( RocheCorp ) => ( Order_ID: 3964609 ) => Entered
+[19-Mar-2012 11:40:24] ( Order Number: Leann Oglesbee ) => ( RocheCorp ) => ( Order_ID: 3964619 ) => Entered
+[19-Mar-2012 11:40:24] ( Order Number: 10192 ) => ( RocheCorp ) => ( Order_ID: 3964634 ) => Entered
+[19-Mar-2012 11:40:24] ( Order Number: 10-4740 ) => ( RocheCorp ) => ( Order_ID: 3964663 ) => Entered
+[19-Mar-2012 11:40:24] ( Order Number: 10185 ) => ( RocheCorp ) => ( Order_ID: 3964684 ) => Entered
+[19-Mar-2012 11:42:35] JobN: 104421 - Entered
+[19-Mar-2012 11:42:35] Email sent to: printableajt@finelink.com - JT-27114 - New JobN - 104421
+[19-Mar-2012 11:42:36] RUSH order processed before 4:00PM  (3964589)
+[19-Mar-2012 11:42:36] RUSH JobN: 104422 - Entered
+[19-Mar-2012 11:42:36] Email sent to: printableajt@finelink.com - RUSH!!! - JT-27115 - New JobN - 104422
+[19-Mar-2012 11:42:36] JobN: 104423 - Entered
+[19-Mar-2012 11:42:37] Email sent to: printableajt@finelink.com - JT-27116 - New JobN - 104423
+[19-Mar-2012 11:42:37] JobN: 104424 - Entered
+[19-Mar-2012 11:42:37] Email sent to: printableajt@finelink.com - JT-27117 - New JobN - 104424
+[19-Mar-2012 11:42:37] JobN: 104425 - Entered
+[19-Mar-2012 11:42:38] Email sent to: printableajt@finelink.com - JT-27118 - New JobN - 104425
+[19-Mar-2012 11:42:38] JobN: 104426 - Entered
+[19-Mar-2012 11:42:38] Email sent to: printableajt@finelink.com - JT-27119 - New JobN - 104426
+[19-Mar-2012 11:42:39] JobN: 104427 - Entered
+[19-Mar-2012 11:42:39] Email sent to: printableajt@finelink.com - JT-27120 - New JobN - 104427
+[19-Mar-2012 11:42:39] JobN: 104428 - Entered
+[19-Mar-2012 11:42:40] Email sent to: printableajt@finelink.com - JT-27121 - New JobN - 104428
+[19-Mar-2012 11:44:06] File download successful for JT-27114
+[19-Mar-2012 11:44:07] File download successful for JT-27115
+[19-Mar-2012 11:44:08] File download successful for JT-27116
+[19-Mar-2012 11:44:09] File download successful for JT-27117
+[19-Mar-2012 11:44:11] File download successful for JT-27118
+[19-Mar-2012 11:44:12] File download successful for JT-27119
+[19-Mar-2012 11:44:13] File download successful for JT-27120
+[19-Mar-2012 11:44:14] File download successful for JT-27121
+[19-Mar-2012 11:48:00] XML creation success : JT-27114
+[19-Mar-2012 11:48:01] XML creation success : JT-27115
+[19-Mar-2012 11:48:01] XML creation success : JT-27116
+[19-Mar-2012 11:48:01] XML creation success : JT-27117
+[19-Mar-2012 11:48:01] XML creation success : JT-27118
+[19-Mar-2012 11:48:02] XML creation success : JT-27119
+[19-Mar-2012 11:48:02] XML creation success : JT-27120
+[19-Mar-2012 11:48:02] XML creation success : JT-27121
+[19-Mar-2012 12:40:29] ( Order Number: 148020 ) => ( RocheCorp ) => ( Order_ID: 3964706 ) => Entered
+[19-Mar-2012 12:40:29] ( Order Number: 16317 ) => ( RocheCorp ) => ( Order_ID: 3964746 ) => Entered
+[19-Mar-2012 12:40:29] ( Order Number: IND2060447 ) => ( Cummins ) => ( Order_ID: 3964806 ) => Entered
+[19-Mar-2012 12:42:26] JT DueDate Changed - Before: 2012-03-19T00:00:00  (JT-27123)
+[19-Mar-2012 12:42:26] JobN: 104433 - Entered
+[19-Mar-2012 12:42:27] Email sent to: printableajt@finelink.com - JT-27122 - New JobN - 104433
+[19-Mar-2012 12:42:27] JobN: 104434 - Entered
+[19-Mar-2012 12:42:27] Email sent to: printableajt@finelink.com - JT-27123 - New JobN - 104434
+[19-Mar-2012 12:44:06] File download successful for JT-27122
+[19-Mar-2012 12:44:08] File download successful for JT-27123
+[19-Mar-2012 12:48:01] XML creation success : JT-27122
+[19-Mar-2012 12:48:01] XML creation success : JT-27123
+[19-Mar-2012 13:40:24] ( Order Number: 10192 ) => ( RocheCorp ) => ( Order_ID: 3965099 ) => Entered
+[19-Mar-2012 13:40:24] ( Order Number: 105330 ) => ( RocheCorp ) => ( Order_ID: 3965130 ) => Entered
+[19-Mar-2012 13:40:24] ( Order Number: Jan Moninger ) => ( cumminscentralpower ) => ( Order_ID: 3965139 ) => Entered
+[19-Mar-2012 13:40:24] ( Order Number: 163230 ) => ( RocheCorp ) => ( Order_ID: 3965147 ) => Entered
+[19-Mar-2012 13:40:24] ( Order Number: Kristal Harper ) => ( RocheCorp ) => ( Order_ID: 3965159 ) => Entered
+[19-Mar-2012 13:40:24] ( Order Number: Greg Smith ) => ( RocheCorp ) => ( Order_ID: 3965182 ) => Entered
+[19-Mar-2012 13:40:24] ( Order Number: 165160 ) => ( RocheCorp ) => ( Order_ID: 3965216 ) => Entered
+[19-Mar-2012 13:42:37] JobN: 104437 - Entered
+[19-Mar-2012 13:42:38] Email sent to: printableajt@finelink.com - JT-27124 - New JobN - 104437
+[19-Mar-2012 13:42:38] JobN: 104438 - Entered
+[19-Mar-2012 13:42:38] Email sent to: printableajt@finelink.com - JT-27125 - New JobN - 104438
+[19-Mar-2012 13:42:38] JobN: 104439 - Entered
+[19-Mar-2012 13:42:39] Email sent to: printableajt@finelink.com - JT-27126 - New JobN - 104439
+[19-Mar-2012 13:42:39] JobN: 104440 - Entered
+[19-Mar-2012 13:42:39] Email sent to: printableajt@finelink.com - JT-27127 - New JobN - 104440
+[19-Mar-2012 13:42:40] JobN: 104441 - Entered
+[19-Mar-2012 13:42:40] Email sent to: printableajt@finelink.com - JT-27128 - New JobN - 104441
+[19-Mar-2012 13:42:40] JobN: 104442 - Entered
+[19-Mar-2012 13:42:40] Email sent to: printableajt@finelink.com - JT-27129 - New JobN - 104442
+[19-Mar-2012 13:42:41] JobN: 104443 - Entered
+[19-Mar-2012 13:42:41] Email sent to: printableajt@finelink.com - JT-27130 - New JobN - 104443
+[19-Mar-2012 13:42:41] JobN: 104444 - Entered
+[19-Mar-2012 13:42:41] Email sent to: printableajt@finelink.com - JT-27131 - New JobN - 104444
+[19-Mar-2012 13:44:12] File download successful for JT-27124
+[19-Mar-2012 13:44:13] File download successful for JT-27125
+[19-Mar-2012 13:44:14] File download successful for JT-27126
+[19-Mar-2012 13:44:16] File download successful for JT-27127
+[19-Mar-2012 13:44:17] File download successful for JT-27128
+[19-Mar-2012 13:44:18] File download successful for JT-27129
+[19-Mar-2012 13:44:19] File download successful for JT-27130
+[19-Mar-2012 13:44:21] File download successful for JT-27131
+[19-Mar-2012 13:48:00] XML creation success : JT-27124
+[19-Mar-2012 13:48:01] XML creation success : JT-27125
+[19-Mar-2012 13:48:01] XML creation success : JT-27126
+[19-Mar-2012 13:48:01] XML creation success : JT-27127
+[19-Mar-2012 13:48:01] XML creation success : JT-27128
+[19-Mar-2012 13:48:02] XML creation success : JT-27129
+[19-Mar-2012 13:48:02] XML creation success : JT-27130
+[19-Mar-2012 13:48:02] XML creation success : JT-27131
+[19-Mar-2012 14:40:41] ( Order Number: 165230 ) => ( RocheCorp ) => ( Order_ID: 3965236 ) => Entered
+[19-Mar-2012 14:40:41] ( Order Number: PO-7524 ) => ( RollsRoyce ) => ( Order_ID: 3965290 ) => Entered
+[19-Mar-2012 14:40:41] ( Order Number: Pcard-415 ) => ( IkonRiverview ) => ( Order_ID: 3965443 ) => Entered
+[19-Mar-2012 14:42:45] JobN: 104447 - Entered
+[19-Mar-2012 14:42:45] Email sent to: printableajt@finelink.com - JT-27132 - New JobN - 104447
+[19-Mar-2012 14:42:45] JobN: 104448 - Entered
+[19-Mar-2012 14:42:46] Email sent to: printableajt@finelink.com - JT-27133 - New JobN - 104448
+[19-Mar-2012 14:44:08] File download successful for JT-27132
+[19-Mar-2012 14:44:15] File download successful for JT-27133
+[19-Mar-2012 14:48:00] XML creation success : JT-27132
+[19-Mar-2012 14:48:01] XML creation success : JT-27133
+[19-Mar-2012 15:40:54] ( Order Number: IND2060702 ) => ( Cummins ) => ( Order_ID: 3965624 ) => Entered
+[19-Mar-2012 15:42:54] JobN: 104453 - Entered
+[19-Mar-2012 15:42:55] Email sent to: printableajt@finelink.com - JT-27134 - New JobN - 104453
+[19-Mar-2012 15:44:06] File download successful for JT-27134
+[19-Mar-2012 15:48:00] XML creation success : JT-27134
+[19-Mar-2012 16:40:37] ( Order Number: 31920121247090 ) => ( cumminscrosspoint ) => ( Order_ID: 3965724 ) => Entered
+[19-Mar-2012 16:40:37] ( Order Number: 6-1840 ) => ( cumminscentralpower ) => ( Order_ID: 3965910 ) => Entered
+[19-Mar-2012 16:42:27] JobN: 104457 - Entered
+[19-Mar-2012 16:42:27] Email sent to: printableajt@finelink.com - JT-27135 - New JobN - 104457
+[19-Mar-2012 16:42:27] JobN: 104458 - Entered
+[19-Mar-2012 16:42:28] Email sent to: printableajt@finelink.com - JT-27136 - New JobN - 104458
+[19-Mar-2012 16:42:28] JobN: 104459 - Entered
+[19-Mar-2012 16:42:28] Email sent to: printableajt@finelink.com - JT-27137 - New JobN - 104459
+[19-Mar-2012 16:42:28] JobN: 104460 - Entered
+[19-Mar-2012 16:42:29] Email sent to: printableajt@finelink.com - JT-27138 - New JobN - 104460
+[19-Mar-2012 16:44:06] File download successful for JT-27135
+[19-Mar-2012 16:44:07] File download successful for JT-27136
+[19-Mar-2012 16:44:09] File download successful for JT-27137
+[19-Mar-2012 16:44:10] File download successful for JT-27138
+[19-Mar-2012 16:48:00] XML creation success : JT-27135
+[19-Mar-2012 16:48:01] XML creation success : JT-27136
+[19-Mar-2012 16:48:01] XML creation success : JT-27137
+[19-Mar-2012 16:48:01] XML creation success : JT-27138
+[20-Mar-2012 02:42:00] It's between the late night hours!!!
+[20-Mar-2012 08:40:19] ( Order Number: PO-7526 ) => ( RollsRoyce ) => ( Order_ID: 3966595 ) => Entered
+[20-Mar-2012 08:42:21] JobN: 104466 - Entered
+[20-Mar-2012 08:42:21] Email sent to: printableajt@finelink.com - JT-27139 - New JobN - 104466
+[20-Mar-2012 08:44:05] File download successful for JT-27139
+[20-Mar-2012 08:48:03] XML creation success : JT-27139
+[20-Mar-2012 09:40:10] ( Order Number: PO-7528 ) => ( RollsRoyce ) => ( Order_ID: 3966662 ) => Entered
+[20-Mar-2012 09:40:10] ( Order Number: IND2061407 ) => ( Cummins ) => ( Order_ID: 3966673 ) => Entered
+[20-Mar-2012 09:40:10] ( Order Number: 3202012625370 ) => ( cumminscrosspoint ) => ( Order_ID: 3966726 ) => Entered
+[20-Mar-2012 09:40:10] ( Order Number: IND2061475 ) => ( Cummins ) => ( Order_ID: 3966746 ) => Entered
+[20-Mar-2012 09:40:10] ( Order Number: IUH-1391 ) => ( iuhealth ) => ( Order_ID: 3966770 ) => Entered
+[20-Mar-2012 09:42:09] JT DueDate Changed - Before: 2012-03-20T00:00:00  (JT-27144)
+[20-Mar-2012 09:42:10] JobN: 104467 - Entered
+[20-Mar-2012 09:42:10] Email sent to: printableajt@finelink.com - JT-27140 - New JobN - 104467
+[20-Mar-2012 09:42:10] JobN: 104468 - Entered
+[20-Mar-2012 09:42:11] Email sent to: printableajt@finelink.com - JT-27141 - New JobN - 104468
+[20-Mar-2012 09:42:11] JobN: 104469 - Entered
+[20-Mar-2012 09:42:11] Email sent to: printableajt@finelink.com - JT-27142 - New JobN - 104469
+[20-Mar-2012 09:42:12] JobN: 104470 - Entered
+[20-Mar-2012 09:42:12] Email sent to: printableajt@finelink.com - JT-27143 - New JobN - 104470
+[20-Mar-2012 09:42:12] JobN: 104471 - Entered
+[20-Mar-2012 09:42:13] Email sent to: printableajt@finelink.com - JT-27144 - New JobN - 104471
+[20-Mar-2012 09:44:02] File download successful for JT-27142
+[20-Mar-2012 09:44:04] File download successful for JT-27143
+[20-Mar-2012 09:44:15] File download successful for JT-27144
+[20-Mar-2012 09:44:22] File download successful for JT-27140
+[20-Mar-2012 09:44:26] File download successful for JT-27141
+[20-Mar-2012 09:48:01] XML creation success : JT-27142
+[20-Mar-2012 09:48:01] XML creation success : JT-27143
+[20-Mar-2012 09:48:01] XML creation success : JT-27144
+[20-Mar-2012 09:48:01] XML creation success : JT-27140
+[20-Mar-2012 09:48:01] XML creation success : JT-27141
+[20-Mar-2012 10:40:11] ( Order Number: IUH-1392 ) => ( iuhealth ) => ( Order_ID: 3966787 ) => Entered
+[20-Mar-2012 10:40:11] ( Order Number: CassieMarion CC - Terri E. Contact ) => ( Cummins ) => ( Order_ID: 3966853 ) => Entered
+[20-Mar-2012 10:40:11] ( Order Number: IUH-1393 ) => ( iuhealth ) => ( Order_ID: 3966855 ) => Entered
+[20-Mar-2012 10:40:11] ( Order Number: IUH-1394 ) => ( iuhealth ) => ( Order_ID: 3966896 ) => Entered
+[20-Mar-2012 10:40:11] ( Order Number: IUH-1395 ) => ( iuhealth ) => ( Order_ID: 3966933 ) => Entered
+[20-Mar-2012 10:40:11] ( Order Number: 27565-25583 ) => ( cumminspowersouth ) => ( Order_ID: 3966936 ) => Entered
+[20-Mar-2012 10:40:14] ( Order Number: 27566-25584 ) => ( cumminspowersouth ) => ( Order_ID: 3966940 ) => Entered
+[20-Mar-2012 10:40:14] ( Order Number: 27573-25586 ) => ( cumminspowersouth ) => ( Order_ID: 3966944 ) => Entered
+[20-Mar-2012 10:40:14] ( Order Number: 27574-25587 ) => ( cumminspowersouth ) => ( Order_ID: 3966950 ) => Entered
+[20-Mar-2012 10:40:14] ( Order Number: PO1028 ) => ( EasyWater ) => ( Order_ID: 3966959 ) => Entered
+[20-Mar-2012 10:40:14] ( Order Number: IUH-1396 ) => ( iuhealth ) => ( Order_ID: 3966960 ) => Entered
+[20-Mar-2012 10:42:12] JT DueDate Changed - Before: 2012-03-20T00:00:00  (JT-27145)
+[20-Mar-2012 10:42:13] JobN: 104473 - Entered
+[20-Mar-2012 10:42:14] Email sent to: printableajt@finelink.com - JT-27145 - New JobN - 104473
+[20-Mar-2012 10:42:14] RUSH order processed before 4:00PM  (3966853)
+[20-Mar-2012 10:42:14] RUSH JobN: 104474 - Entered
+[20-Mar-2012 10:42:14] Email sent to: printableajt@finelink.com - RUSH!!! - JT-27146 - New JobN - 104474
+[20-Mar-2012 10:42:15] FGINumber: 9196 - Entered  -  OD_ID: 10386169
+[20-Mar-2012 10:42:15] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27147 - New FGINumber - 9196
+[20-Mar-2012 10:42:16] JobN: 104475 - Entered
+[20-Mar-2012 10:42:16] Email sent to: printableajt@finelink.com - JT-27148 - New JobN - 104475
+[20-Mar-2012 10:42:16] JobN: 104476 - Entered
+[20-Mar-2012 10:42:17] Email sent to: printableajt@finelink.com - JT-27149 - New JobN - 104476
+[20-Mar-2012 10:42:17] JobN: 104477 - Entered
+[20-Mar-2012 10:42:17] Email sent to: printableajt@finelink.com - JT-27150 - New JobN - 104477
+[20-Mar-2012 10:42:18] JobN: 104478 - Entered
+[20-Mar-2012 10:42:18] Email sent to: printableajt@finelink.com - JT-27151 - New JobN - 104478
+[20-Mar-2012 10:42:18] JobN: 104479 - Entered
+[20-Mar-2012 10:42:19] Email sent to: printableajt@finelink.com - JT-27152 - New JobN - 104479
+[20-Mar-2012 10:42:19] JobN: 104480 - Entered
+[20-Mar-2012 10:42:19] Email sent to: printableajt@finelink.com - JT-27153 - New JobN - 104480
+[20-Mar-2012 10:42:20] FGINumber: 9197 - Entered  -  OD_ID: 10389446
+[20-Mar-2012 10:42:20] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27154 - New FGINumber - 9197
+[20-Mar-2012 10:42:21] JobN: 104481 - Entered
+[20-Mar-2012 10:42:21] Email sent to: printableajt@finelink.com - JT-27155 - New JobN - 104481
+[20-Mar-2012 10:44:02] File download successful for JT-27146
+[20-Mar-2012 10:44:05] File download successful for JT-27149
+[20-Mar-2012 10:44:06] File download successful for JT-27150
+[20-Mar-2012 10:44:07] File download successful for JT-27151
+[20-Mar-2012 10:44:09] File download successful for JT-27152
+[20-Mar-2012 10:44:10] File download successful for JT-27153
+[20-Mar-2012 10:44:13] File download successful for JT-27155
+[20-Mar-2012 10:44:19] File download successful for JT-27145
+[20-Mar-2012 10:44:24] File download successful for JT-27148
+[20-Mar-2012 10:48:00] XML creation success : JT-27146
+[20-Mar-2012 10:48:01] XML creation success : JT-27147
+[20-Mar-2012 10:48:01] XML creation success : JT-27149
+[20-Mar-2012 10:48:01] XML creation success : JT-27150
+[20-Mar-2012 10:48:01] XML creation success : JT-27151
+[20-Mar-2012 10:48:02] XML creation success : JT-27152
+[20-Mar-2012 10:48:02] XML creation success : JT-27153
+[20-Mar-2012 10:48:02] XML creation success : JT-27154
+[20-Mar-2012 10:48:02] XML creation success : JT-27155
+[20-Mar-2012 10:48:03] XML creation success : JT-27145
+[20-Mar-2012 10:48:03] XML creation success : JT-27148
+[20-Mar-2012 11:40:11] ( Order Number: PO-7529 ) => ( RollsRoyce ) => ( Order_ID: 3967021 ) => Entered
+[20-Mar-2012 11:42:11] FGINumber: 9198 - Entered  -  OD_ID: 10389588
+[20-Mar-2012 11:42:12] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27156 - New FGINumber - 9198
+[20-Mar-2012 11:48:00] XML creation success : JT-27156
+[20-Mar-2012 12:40:25] ( Order Number: 3202012843040 ) => ( cumminscrosspoint ) => ( Order_ID: 3967265 ) => Entered
+[20-Mar-2012 12:40:25] ( Order Number: PO1029 ) => ( EasyWater ) => ( Order_ID: 3967313 ) => Entered
+[20-Mar-2012 12:40:25] ( Order Number: IND2061805 ) => ( Cummins ) => ( Order_ID: 3967364 ) => Entered
+[20-Mar-2012 12:40:25] ( Order Number: 03/20/12 ) => ( Honda ) => ( Order_ID: 3967465 ) => Entered
+[20-Mar-2012 12:42:16] JobN: 104483 - Entered
+[20-Mar-2012 12:42:17] Email sent to: printableajt@finelink.com - JT-27157 - New JobN - 104483
+[20-Mar-2012 12:42:17] JobN: 104484 - Entered
+[20-Mar-2012 12:42:17] Email sent to: printableajt@finelink.com - JT-27158 - New JobN - 104484
+[20-Mar-2012 12:42:18] JobN: 104485 - Entered
+[20-Mar-2012 12:42:18] Email sent to: printableajt@finelink.com - JT-27159 - New JobN - 104485
+[20-Mar-2012 12:42:18] FGINumber: 9199 - Entered  -  OD_ID: 10390275
+[20-Mar-2012 12:42:19] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27160 - New FGINumber - 9199
+[20-Mar-2012 12:42:19] JobN: 104486 - Entered
+[20-Mar-2012 12:42:19] Email sent to: printableajt@finelink.com - JT-27161 - New JobN - 104486
+[20-Mar-2012 12:42:20] JobN: 104487 - Entered
+[20-Mar-2012 12:42:20] Email sent to: printableajt@finelink.com - JT-27162 - New JobN - 104487
+[20-Mar-2012 12:44:02] File download successful for JT-27158
+[20-Mar-2012 12:44:03] File download successful for JT-27159
+[20-Mar-2012 12:44:05] File download successful for JT-27161
+[20-Mar-2012 12:44:06] File download successful for JT-27162
+[20-Mar-2012 12:48:00] XML creation success : JT-27157
+[20-Mar-2012 12:48:01] XML creation success : JT-27158
+[20-Mar-2012 12:48:01] XML creation success : JT-27159
+[20-Mar-2012 12:48:01] XML creation success : JT-27160
+[20-Mar-2012 12:48:01] XML creation success : JT-27161
+[20-Mar-2012 12:48:02] XML creation success : JT-27162
+[20-Mar-2012 13:40:14] ( Order Number: Tami H637 ) => ( CumminsNPower ) => ( Order_ID: 3967605 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1397 ) => ( iuhealth ) => ( Order_ID: 3967635 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1398 ) => ( iuhealth ) => ( Order_ID: 3967636 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1399 ) => ( iuhealth ) => ( Order_ID: 3967638 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1400 ) => ( iuhealth ) => ( Order_ID: 3967641 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1401 ) => ( iuhealth ) => ( Order_ID: 3967643 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1402 ) => ( iuhealth ) => ( Order_ID: 3967647 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1403 ) => ( iuhealth ) => ( Order_ID: 3967650 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1404 ) => ( iuhealth ) => ( Order_ID: 3967652 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1405 ) => ( iuhealth ) => ( Order_ID: 3967655 ) => Entered
+[20-Mar-2012 13:40:14] ( Order Number: IUH-1406 ) => ( iuhealth ) => ( Order_ID: 3967663 ) => Entered
+[20-Mar-2012 13:42:17] JobN: 104491 - Entered
+[20-Mar-2012 13:42:17] Email sent to: printableajt@finelink.com - JT-27163 - New JobN - 104491
+[20-Mar-2012 13:42:17] JobN: 104492 - Entered
+[20-Mar-2012 13:42:18] Email sent to: printableajt@finelink.com - JT-27164 - New JobN - 104492
+[20-Mar-2012 13:42:18] JobN: 104493 - Entered
+[20-Mar-2012 13:42:18] Email sent to: printableajt@finelink.com - JT-27165 - New JobN - 104493
+[20-Mar-2012 13:42:19] FGINumber: 9200 - Entered  -  OD_ID: 10371954
+[20-Mar-2012 13:42:19] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27166 - New FGINumber - 9200
+[20-Mar-2012 13:42:20] FGINumber: 9201 - Entered  -  OD_ID: 10371997
+[20-Mar-2012 13:42:20] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27167 - New FGINumber - 9201
+[20-Mar-2012 13:42:21] FGINumber: 9202 - Entered  -  OD_ID: 10374583
+[20-Mar-2012 13:42:21] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27168 - New FGINumber - 9202
+[20-Mar-2012 13:42:22] FGINumber: 9203 - Entered  -  OD_ID: 10375733
+[20-Mar-2012 13:42:22] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27169 - New FGINumber - 9203
+[20-Mar-2012 13:42:22] JobN: 104494 - Entered
+[20-Mar-2012 13:42:23] Email sent to: printableajt@finelink.com - JT-27170 - New JobN - 104494
+[20-Mar-2012 13:42:23] FGINumber: 9204 - Entered  -  OD_ID: 10382556
+[20-Mar-2012 13:42:23] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27171 - New FGINumber - 9204
+[20-Mar-2012 13:42:24] FGINumber: 9205 - Entered  -  OD_ID: 10385329
+[20-Mar-2012 13:42:24] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27172 - New FGINumber - 9205
+[20-Mar-2012 13:42:25] FGINumber: 9206 - Entered  -  OD_ID: 10385438
+[20-Mar-2012 13:42:25] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27173 - New FGINumber - 9206
+[20-Mar-2012 13:42:26] FGINumber: 9207 - Entered  -  OD_ID: 10387056
+[20-Mar-2012 13:42:26] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27174 - New FGINumber - 9207
+[20-Mar-2012 13:44:42] File download successful for JT-27164
+[20-Mar-2012 13:45:43] File download successful for JT-27165
+[20-Mar-2012 13:48:00] XML creation success : JT-27163
+[20-Mar-2012 13:48:01] XML creation success : JT-27164
+[20-Mar-2012 13:48:02] XML creation success : JT-27165
+[20-Mar-2012 13:48:02] XML creation success : JT-27166
+[20-Mar-2012 13:48:02] XML creation success : JT-27167
+[20-Mar-2012 13:48:02] XML creation success : JT-27168
+[20-Mar-2012 13:48:03] XML creation success : JT-27169
+[20-Mar-2012 13:48:03] XML creation success : JT-27170
+[20-Mar-2012 13:48:03] XML creation success : JT-27171
+[20-Mar-2012 13:48:03] XML creation success : JT-27172
+[20-Mar-2012 13:48:04] XML creation success : JT-27173
+[20-Mar-2012 13:48:04] XML creation success : JT-27174
+[20-Mar-2012 14:40:20] ( Order Number: IND2062011 ) => ( Cummins ) => ( Order_ID: 3967847 ) => Entered
+[20-Mar-2012 14:40:20] ( Order Number: IND2062012 ) => ( Cummins ) => ( Order_ID: 3967848 ) => Entered
+[20-Mar-2012 14:40:20] ( Order Number: PO-7531 ) => ( RollsRoyce ) => ( Order_ID: 3967879 ) => Entered
+[20-Mar-2012 14:40:20] ( Order Number: PO-7532 ) => ( RollsRoyce ) => ( Order_ID: 3968010 ) => Entered
+[20-Mar-2012 14:42:21] JobN: 104500 - Entered
+[20-Mar-2012 14:42:21] Email sent to: printableajt@finelink.com - JT-27175 - New JobN - 104500
+[20-Mar-2012 14:42:21] JobN: 104501 - Entered
+[20-Mar-2012 14:42:22] Email sent to: printableajt@finelink.com - JT-27176 - New JobN - 104501
+[20-Mar-2012 14:42:22] FGINumber: 9208 - Entered  -  OD_ID: 10391695
+[20-Mar-2012 14:42:23] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27177 - New FGINumber - 9208
+[20-Mar-2012 14:42:23] FGINumber: 9209 - Entered  -  OD_ID: 10391979
+[20-Mar-2012 14:42:24] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27178 - New FGINumber - 9209
+[20-Mar-2012 14:44:02] File download successful for JT-27175
+[20-Mar-2012 14:44:03] File download successful for JT-27176
+[20-Mar-2012 14:48:00] XML creation success : JT-27175
+[20-Mar-2012 14:48:01] XML creation success : JT-27176
+[20-Mar-2012 14:48:01] XML creation success : JT-27177
+[20-Mar-2012 14:48:01] XML creation success : JT-27178
+[20-Mar-2012 15:40:23] ( Order Number: PO-7533 ) => ( RollsRoyce ) => ( Order_ID: 3968117 ) => Entered
+[20-Mar-2012 15:40:23] ( Order Number: IND2062146 ) => ( Cummins ) => ( Order_ID: 3968193 ) => Entered
+[20-Mar-2012 15:40:23] ( Order Number: CC#5525227000061329 exp04/15 Ivan Strikwerda ) => ( Cummins ) => ( Order_ID: 3968227 ) => Entered
+[20-Mar-2012 15:42:25] JobN: 104503 - Entered
+[20-Mar-2012 15:42:25] Email sent to: printableajt@finelink.com - JT-27179 - New JobN - 104503
+[20-Mar-2012 15:42:26] JobN: 104504 - Entered
+[20-Mar-2012 15:42:26] Email sent to: printableajt@finelink.com - JT-27180 - New JobN - 104504
+[20-Mar-2012 15:42:26] JobN: 104505 - Entered
+[20-Mar-2012 15:42:26] Email sent to: printableajt@finelink.com - JT-27181 - New JobN - 104505
+[20-Mar-2012 15:44:02] File download successful for JT-27179
+[20-Mar-2012 15:48:00] XML creation success : JT-27179
+[20-Mar-2012 15:48:01] XML creation success : JT-27180
+[20-Mar-2012 15:48:01] XML creation success : JT-27181
+[20-Mar-2012 16:40:21] ( Order Number: TM-KC-52 ) => ( cumminscentralpower ) => ( Order_ID: 3968290 ) => Entered
+[20-Mar-2012 16:40:21] ( Order Number: PO-461 ) => ( ININ ) => ( Order_ID: 3968376 ) => Entered
+[20-Mar-2012 16:42:18] JobN: 104507 - Entered
+[20-Mar-2012 16:42:19] Email sent to: printableajt@finelink.com - JT-27182 - New JobN - 104507
+[20-Mar-2012 16:42:19] JobN: 104508 - Entered
+[20-Mar-2012 16:42:19] Email sent to: printableajt@finelink.com - JT-27183 - New JobN - 104508
+[20-Mar-2012 16:42:19] JobN: 104509 - Entered
+[20-Mar-2012 16:42:20] Email sent to: printableajt@finelink.com - JT-27184 - New JobN - 104509
+[20-Mar-2012 16:42:20] JobN: 104510 - Entered
+[20-Mar-2012 16:42:20] Email sent to: printableajt@finelink.com - JT-27185 - New JobN - 104510
+[20-Mar-2012 16:42:21] JobN: 104511 - Entered
+[20-Mar-2012 16:42:21] Email sent to: printableajt@finelink.com - JT-27186 - New JobN - 104511
+[20-Mar-2012 16:42:21] JobN: 104512 - Entered
+[20-Mar-2012 16:42:22] Email sent to: printableajt@finelink.com - JT-27187 - New JobN - 104512
+[20-Mar-2012 16:42:22] JobN: 104513 - Entered
+[20-Mar-2012 16:42:22] Email sent to: printableajt@finelink.com - JT-27188 - New JobN - 104513
+[20-Mar-2012 16:42:22] JobN: 104514 - Entered
+[20-Mar-2012 16:42:23] Email sent to: printableajt@finelink.com - JT-27189 - New JobN - 104514
+[20-Mar-2012 16:42:23] JobN: 104515 - Entered
+[20-Mar-2012 16:42:23] Email sent to: printableajt@finelink.com - JT-27190 - New JobN - 104515
+[20-Mar-2012 16:44:02] File download successful for JT-27182
+[20-Mar-2012 16:44:03] File download successful for JT-27184
+[20-Mar-2012 16:44:04] File download successful for JT-27185
+[20-Mar-2012 16:44:05] File download successful for JT-27187
+[20-Mar-2012 16:44:07] File download successful for JT-27189
+[20-Mar-2012 16:48:00] XML creation success : JT-27182
+[20-Mar-2012 16:48:01] XML creation success : JT-27183
+[20-Mar-2012 16:48:01] XML creation success : JT-27184
+[20-Mar-2012 16:48:01] XML creation success : JT-27185
+[20-Mar-2012 16:48:01] XML creation success : JT-27186
+[20-Mar-2012 16:48:01] XML creation success : JT-27187
+[20-Mar-2012 16:48:02] XML creation success : JT-27188
+[20-Mar-2012 16:48:02] XML creation success : JT-27189
+[20-Mar-2012 16:48:02] XML creation success : JT-27190
+[20-Mar-2012 17:40:20] ( Order Number: IND2062276 ) => ( Cummins ) => ( Order_ID: 3968484 ) => Entered
+[20-Mar-2012 17:40:20] ( Order Number: IND2062282 ) => ( Cummins ) => ( Order_ID: 3968488 ) => Entered
+[20-Mar-2012 17:40:20] ( Order Number: IND2062260 ) => ( Cummins ) => ( Order_ID: 3968489 ) => Entered
+[20-Mar-2012 17:40:20] ( Order Number: 320201221124  ) => ( TheVillages ) => ( Order_ID: 3968587 ) => Entered
+[20-Mar-2012 17:42:17] JobN: 104518 - Entered
+[20-Mar-2012 17:42:17] Email sent to: printableajt@finelink.com - JT-27191 - New JobN - 104518
+[20-Mar-2012 17:42:18] JobN: 104519 - Entered
+[20-Mar-2012 17:42:18] Email sent to: printableajt@finelink.com - JT-27192 - New JobN - 104519
+[20-Mar-2012 17:42:18] JobN: 104520 - Entered
+[20-Mar-2012 17:42:18] Email sent to: printableajt@finelink.com - JT-27193 - New JobN - 104520
+[20-Mar-2012 17:42:19] JobN: 104521 - Entered
+[20-Mar-2012 17:42:19] Email sent to: printableajt@finelink.com - JT-27194 - New JobN - 104521
+[20-Mar-2012 17:42:19] JobN: 104522 - Entered
+[20-Mar-2012 17:42:20] Email sent to: printableajt@finelink.com - JT-27195 - New JobN - 104522
+[20-Mar-2012 17:42:20] JobN: 104523 - Entered
+[20-Mar-2012 17:42:20] Email sent to: printableajt@finelink.com - JT-27196 - New JobN - 104523
+[20-Mar-2012 17:42:21] JobN: 104524 - Entered
+[20-Mar-2012 17:42:21] Email sent to: printableajt@finelink.com - JT-27197 - New JobN - 104524
+[20-Mar-2012 17:42:21] JobN: 104525 - Entered
+[20-Mar-2012 17:42:22] Email sent to: printableajt@finelink.com - JT-27198 - New JobN - 104525
+[20-Mar-2012 17:42:22] JobN: 104526 - Entered
+[20-Mar-2012 17:42:22] Email sent to: printableajt@finelink.com - JT-27199 - New JobN - 104526
+[20-Mar-2012 17:42:22] JobN: 104527 - Entered
+[20-Mar-2012 17:42:23] Email sent to: printableajt@finelink.com - JT-27200 - New JobN - 104527
+[20-Mar-2012 17:42:23] JobN: 104528 - Entered
+[20-Mar-2012 17:42:23] Email sent to: printableajt@finelink.com - JT-27201 - New JobN - 104528
+[20-Mar-2012 17:42:24] JobN: 104529 - Entered
+[20-Mar-2012 17:42:24] Email sent to: printableajt@finelink.com - JT-27202 - New JobN - 104529
+[20-Mar-2012 17:44:02] File download successful for JT-27191
+[20-Mar-2012 17:44:03] File download successful for JT-27192
+[20-Mar-2012 17:44:04] File download successful for JT-27193
+[20-Mar-2012 17:48:00] XML creation success : JT-27191
+[20-Mar-2012 17:48:01] XML creation success : JT-27192
+[20-Mar-2012 17:48:01] XML creation success : JT-27193
+[20-Mar-2012 17:48:01] XML creation success : JT-27194
+[20-Mar-2012 17:48:01] XML creation success : JT-27195
+[20-Mar-2012 17:48:02] XML creation success : JT-27196
+[20-Mar-2012 17:48:02] XML creation success : JT-27197
+[20-Mar-2012 17:48:02] XML creation success : JT-27198
+[20-Mar-2012 17:48:02] XML creation success : JT-27199
+[20-Mar-2012 17:48:02] XML creation success : JT-27200
+[20-Mar-2012 17:48:03] XML creation success : JT-27201
+[20-Mar-2012 17:48:03] XML creation success : JT-27202
+[20-Mar-2012 18:40:16] ( Order Number: IND2062393 ) => ( Cummins ) => ( Order_ID: 3968798 ) => Entered
+[20-Mar-2012 18:42:17] JobN: 104532 - Entered
+[20-Mar-2012 18:42:18] Email sent to: printableajt@finelink.com - JT-27203 - New JobN - 104532
+[20-Mar-2012 18:44:02] File download successful for JT-27203
+[20-Mar-2012 18:48:00] XML creation success : JT-27203
+[21-Mar-2012 02:42:00] It's between the late night hours!!!
+[21-Mar-2012 07:40:14] ( Order Number: PO-7535 ) => ( RollsRoyce ) => ( Order_ID: 3969105 ) => Entered
+[21-Mar-2012 07:42:18] FGINumber: 9210 - Entered  -  OD_ID: 10395179
+[21-Mar-2012 07:42:18] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27204 - New FGINumber - 9210
+[21-Mar-2012 07:48:03] XML creation success : JT-27204
+[21-Mar-2012 08:40:16] ( Order Number: 03/21/12 ) => ( Honda ) => ( Order_ID: 3969114 ) => Entered
+[21-Mar-2012 08:42:15] JobN: 104540 - Entered
+[21-Mar-2012 08:42:16] Email sent to: printableajt@finelink.com - JT-27205 - New JobN - 104540
+[21-Mar-2012 08:44:02] File download successful for JT-27205
+[21-Mar-2012 08:48:00] XML creation success : JT-27205
+[21-Mar-2012 09:40:18] ( Order Number: 16527 ) => ( RocheCorp ) => ( Order_ID: 3969178 ) => Entered
+[21-Mar-2012 09:40:19] ( Order Number: IND2062879 ) => ( Cummins ) => ( Order_ID: 3969183 ) => Entered
+[21-Mar-2012 09:40:19] ( Order Number: IND2062918 ) => ( Cummins ) => ( Order_ID: 3969236 ) => Entered
+[21-Mar-2012 09:40:19] ( Order Number: IND2062916 ) => ( Cummins ) => ( Order_ID: 3969239 ) => Entered
+[21-Mar-2012 09:40:19] ( Order Number: IND2062966 ) => ( Cummins ) => ( Order_ID: 3969241 ) => Entered
+[21-Mar-2012 09:42:17] RUSH order processed before 4:00PM  (3969178)
+[21-Mar-2012 09:42:17] RUSH JobN: 104541 - Entered
+[21-Mar-2012 09:42:17] Email sent to: printableajt@finelink.com - RUSH!!! - JT-27206 - New JobN - 104541
+[21-Mar-2012 09:42:17] JobN: 104542 - Entered
+[21-Mar-2012 09:42:18] Email sent to: printableajt@finelink.com - JT-27207 - New JobN - 104542
+[21-Mar-2012 09:42:18] JobN: 104543 - Entered
+[21-Mar-2012 09:42:18] Email sent to: printableajt@finelink.com - JT-27208 - New JobN - 104543
+[21-Mar-2012 09:42:18] JobN: 104544 - Entered
+[21-Mar-2012 09:42:19] Email sent to: printableajt@finelink.com - JT-27209 - New JobN - 104544
+[21-Mar-2012 09:42:19] JobN: 104545 - Entered
+[21-Mar-2012 09:42:19] Email sent to: printableajt@finelink.com - JT-27210 - New JobN - 104545
+[21-Mar-2012 09:44:02] File download successful for JT-27206
+[21-Mar-2012 09:44:03] File download successful for JT-27207
+[21-Mar-2012 09:44:05] File download successful for JT-27208
+[21-Mar-2012 09:44:06] File download successful for JT-27209
+[21-Mar-2012 09:44:08] File download successful for JT-27210
+[21-Mar-2012 09:48:01] XML creation success : JT-27206
+[21-Mar-2012 09:48:01] XML creation success : JT-27207
+[21-Mar-2012 09:48:01] XML creation success : JT-27208
+[21-Mar-2012 09:48:01] XML creation success : JT-27209
+[21-Mar-2012 09:48:01] XML creation success : JT-27210
+[21-Mar-2012 10:40:17] ( Order Number: IND2063031 ) => ( Cummins ) => ( Order_ID: 3969323 ) => Entered
+[21-Mar-2012 10:40:17] ( Order Number: PO1030 ) => ( EasyWater ) => ( Order_ID: 3969332 ) => Entered
+[21-Mar-2012 10:42:17] JobN: 104548 - Entered
+[21-Mar-2012 10:42:18] Email sent to: printableajt@finelink.com - JT-27211 - New JobN - 104548
+[21-Mar-2012 10:42:19] FGINumber: 9212 - Entered  -  OD_ID: 10395643
+[21-Mar-2012 10:42:19] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27212 - New FGINumber - 9212
+[21-Mar-2012 10:42:20] FGINumber: 9212 - Entered  -  OD_ID: 10395644
+[21-Mar-2012 10:42:20] FGINumber: 9213 - Entered  -  OD_ID: 10396011
+[21-Mar-2012 10:42:20] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27214 - New FGINumber - 9213
+[21-Mar-2012 10:44:02] File download successful for JT-27211
+[21-Mar-2012 10:48:00] XML creation success : JT-27211
+[21-Mar-2012 10:48:01] XML creation success : JT-27212
+[21-Mar-2012 10:48:01] XML creation success : JT-27213
+[21-Mar-2012 10:48:01] XML creation success : JT-27214
+[21-Mar-2012 11:40:20] ( Order Number: PO1031 ) => ( EasyWater ) => ( Order_ID: 3969463 ) => Entered
+[21-Mar-2012 15:40:22] ( Order Number: IND2063482 ) => ( Cummins ) => ( Order_ID: 3970592 ) => Entered
+[21-Mar-2012 15:40:22] ( Order Number: IND2063485 ) => ( Cummins ) => ( Order_ID: 3970597 ) => Entered
+[21-Mar-2012 15:42:19] JobN: 104555 - Entered
+[21-Mar-2012 15:42:20] Email sent to: printableajt@finelink.com - JT-27215 - New JobN - 104555
+[21-Mar-2012 15:42:20] JobN: 104556 - Entered
+[21-Mar-2012 15:42:20] Email sent to: printableajt@finelink.com - JT-27216 - New JobN - 104556
+[21-Mar-2012 15:44:03] File download successful for JT-27216
+[21-Mar-2012 15:48:02] XML creation success : JT-27215
+[21-Mar-2012 15:48:02] XML creation success : JT-27216
+[21-Mar-2012 16:40:21] ( Order Number: PO-7543 ) => ( RollsRoyce ) => ( Order_ID: 3970863 ) => Entered
+[21-Mar-2012 16:40:21] ( Order Number: PO-462 ) => ( ININ ) => ( Order_ID: 3970893 ) => Entered
+[21-Mar-2012 16:40:21] ( Order Number: IND2063610 ) => ( Cummins ) => ( Order_ID: 3970976 ) => Entered
+[21-Mar-2012 16:42:20] JobN: 104562 - Entered
+[21-Mar-2012 16:42:21] Email sent to: printableajt@finelink.com - JT-27217 - New JobN - 104562
+[21-Mar-2012 16:42:21] JobN: 104563 - Entered
+[21-Mar-2012 16:42:21] Email sent to: printableajt@finelink.com - JT-27218 - New JobN - 104563
+[21-Mar-2012 16:42:21] JobN: 104564 - Entered
+[21-Mar-2012 16:42:22] Email sent to: printableajt@finelink.com - JT-27219 - New JobN - 104564
+[21-Mar-2012 16:42:22] JobN: 104565 - Entered
+[21-Mar-2012 16:42:22] Email sent to: printableajt@finelink.com - JT-27220 - New JobN - 104565
+[21-Mar-2012 16:42:22] JobN: 104566 - Entered
+[21-Mar-2012 16:42:23] Email sent to: printableajt@finelink.com - JT-27221 - New JobN - 104566
+[21-Mar-2012 16:42:23] JobN: 104567 - Entered
+[21-Mar-2012 16:42:24] Email sent to: printableajt@finelink.com - JT-27222 - New JobN - 104567
+[21-Mar-2012 16:44:02] File download successful for JT-27217
+[21-Mar-2012 16:44:03] File download successful for JT-27218
+[21-Mar-2012 16:44:05] File download successful for JT-27219
+[21-Mar-2012 16:44:06] File download successful for JT-27220
+[21-Mar-2012 16:44:07] File download successful for JT-27221
+[21-Mar-2012 16:44:08] File download successful for JT-27222
+[21-Mar-2012 16:48:02] XML creation success : JT-27217
+[21-Mar-2012 16:48:03] XML creation success : JT-27218
+[21-Mar-2012 16:48:03] XML creation success : JT-27219
+[21-Mar-2012 16:48:03] XML creation success : JT-27220
+[21-Mar-2012 16:48:03] XML creation success : JT-27221
+[21-Mar-2012 16:48:04] XML creation success : JT-27222
+[21-Mar-2012 17:40:24] ( Order Number: 175190 ) => ( RocheCorp ) => ( Order_ID: 3971066 ) => Entered
+[21-Mar-2012 17:42:21] RUSH order processed after 4:00PM  (3971066)
+[21-Mar-2012 17:42:21] RUSH JobN: 104568 - Entered
+[21-Mar-2012 17:42:21] Email sent to: printableajt@finelink.com - RUSH!!! - JT-27223 - New JobN - 104568
+[21-Mar-2012 17:44:02] File download successful for JT-27223
+[21-Mar-2012 17:48:00] XML creation success : JT-27223
+[22-Mar-2012 02:42:02] It's between the late night hours!!!
+[22-Mar-2012 05:40:17] ( Order Number: IND2064004 ) => ( Cummins ) => ( Order_ID: 3971594 ) => Entered
+[22-Mar-2012 05:42:17] JobN: 104573 - Entered
+[22-Mar-2012 05:42:18] Email sent to: printableajt@finelink.com - JT-27224 - New JobN - 104573
+[22-Mar-2012 05:44:02] File download successful for JT-27224
+[22-Mar-2012 05:48:03] XML creation success : JT-27224
+[22-Mar-2012 08:40:19] ( Order Number: Goshen ) => ( novia ) => ( Order_ID: 3971633 ) => Entered
+[22-Mar-2012 08:40:19] ( Order Number: Walton ) => ( novia ) => ( Order_ID: 3971636 ) => Entered
+[22-Mar-2012 08:40:19] ( Order Number: Concord ) => ( novia ) => ( Order_ID: 3971639 ) => Entered
+[22-Mar-2012 08:42:25] FGINumber: 9214 - Entered  -  OD_ID: 10401413
+[22-Mar-2012 08:42:26] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27225 - New FGINumber - 9214
+[22-Mar-2012 08:42:26] FGINumber: 9215 - Entered  -  OD_ID: 10401416
+[22-Mar-2012 08:42:27] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27226 - New FGINumber - 9215
+[22-Mar-2012 08:42:27] FGINumber: 9216 - Entered  -  OD_ID: 10401419
+[22-Mar-2012 08:42:27] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27227 - New FGINumber - 9216
+[22-Mar-2012 08:48:00] XML creation success : JT-27225
+[22-Mar-2012 08:48:01] XML creation success : JT-27226
+[22-Mar-2012 08:48:01] XML creation success : JT-27227
+[22-Mar-2012 09:40:21] ( Order Number: LuCinda Nedimyer ) => ( RocheCorp ) => ( Order_ID: 3971707 ) => Entered
+[22-Mar-2012 09:42:30] RUSH order processed before 4:00PM  (3971707)
+[22-Mar-2012 09:42:30] RUSH JobN: 104579 - Entered
+[22-Mar-2012 09:42:30] Email sent to: printableajt@finelink.com - RUSH!!! - JT-27228 - New JobN - 104579
+[22-Mar-2012 09:44:02] File download successful for JT-27228
+[22-Mar-2012 09:48:00] XML creation success : JT-27228
+[22-Mar-2012 10:40:23] ( Order Number: Lisa Stickley CC ) => ( cumminscrosspoint ) => ( Order_ID: 3971868 ) => Entered
+[22-Mar-2012 10:40:23] ( Order Number: IND2064275 ) => ( Cummins ) => ( Order_ID: 3971902 ) => Entered
+[22-Mar-2012 10:40:23] ( Order Number: IND2064274 ) => ( Cummins ) => ( Order_ID: 3971905 ) => Entered
+[22-Mar-2012 10:42:20] RUSH order processed before 4:00PM  (3971868)
+[22-Mar-2012 10:42:20] RUSH JobN: 104580 - Entered
+[22-Mar-2012 10:42:20] Email sent to: printableajt@finelink.com - RUSH!!! - JT-27229 - New JobN - 104580
+[22-Mar-2012 10:42:21] JobN: 104581 - Entered
+[22-Mar-2012 10:42:21] Email sent to: printableajt@finelink.com - JT-27230 - New JobN - 104581
+[22-Mar-2012 10:42:21] JobN: 104582 - Entered
+[22-Mar-2012 10:42:21] Email sent to: printableajt@finelink.com - JT-27231 - New JobN - 104582
+[22-Mar-2012 10:44:02] File download successful for JT-27230
+[22-Mar-2012 10:44:03] File download successful for JT-27231
+[22-Mar-2012 10:48:00] XML creation success : JT-27229
+[22-Mar-2012 10:48:01] XML creation success : JT-27230
+[22-Mar-2012 10:48:01] XML creation success : JT-27231
+[22-Mar-2012 11:40:26] ( Order Number: PO-7545 ) => ( RollsRoyce ) => ( Order_ID: 3972037 ) => Entered
+[22-Mar-2012 11:40:26] ( Order Number: PO-7546 ) => ( RollsRoyce ) => ( Order_ID: 3972103 ) => Entered
+[22-Mar-2012 11:40:26] ( Order Number: IND2064357 ) => ( Cummins ) => ( Order_ID: 3972113 ) => Entered
+[22-Mar-2012 11:40:26] ( Order Number: IND2064383 ) => ( Cummins ) => ( Order_ID: 3972115 ) => Entered
+[22-Mar-2012 11:40:26] ( Order Number: IND2064482 ) => ( Cummins ) => ( Order_ID: 3972218 ) => Entered
+[22-Mar-2012 11:42:26] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27236)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27237)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27238)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27239)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27240)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27241)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27242)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27243)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27244)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27245)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27246)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27247)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27248)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27249)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27250)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27251)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27252)
+[22-Mar-2012 11:42:29] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27253)
+[22-Mar-2012 11:42:30] JobN: 104586 - Entered
+[22-Mar-2012 11:42:30] Email sent to: printableajt@finelink.com - JT-27232 - New JobN - 104586
+[22-Mar-2012 11:42:30] JobN: 104587 - Entered
+[22-Mar-2012 11:42:31] Email sent to: printableajt@finelink.com - JT-27233 - New JobN - 104587
+[22-Mar-2012 11:42:31] JobN: 104588 - Entered
+[22-Mar-2012 11:42:31] Email sent to: printableajt@finelink.com - JT-27234 - New JobN - 104588
+[22-Mar-2012 11:42:31] JobN: 104589 - Entered
+[22-Mar-2012 11:42:32] Email sent to: printableajt@finelink.com - JT-27235 - New JobN - 104589
+[22-Mar-2012 11:42:32] FGINumber: 9217 - Entered  -  OD_ID: 10402849
+[22-Mar-2012 11:42:32] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27236 - New FGINumber - 9217
+[22-Mar-2012 11:42:33] FGINumber: 9217 - Entered  -  OD_ID: 10402850
+[22-Mar-2012 11:42:33] FGINumber: 9217 - Entered  -  OD_ID: 10402851
+[22-Mar-2012 11:42:34] FGINumber: 9217 - Entered  -  OD_ID: 10402852
+[22-Mar-2012 11:42:34] FGINumber: 9217 - Entered  -  OD_ID: 10402853
+[22-Mar-2012 11:42:34] FGINumber: 9217 - Entered  -  OD_ID: 10402854
+[22-Mar-2012 11:42:35] FGINumber: 9217 - Entered  -  OD_ID: 10402855
+[22-Mar-2012 11:42:35] FGINumber: 9217 - Entered  -  OD_ID: 10402856
+[22-Mar-2012 11:42:36] FGINumber: 9217 - Entered  -  OD_ID: 10402857
+[22-Mar-2012 11:42:36] FGINumber: 9217 - Entered  -  OD_ID: 10402859
+[22-Mar-2012 11:42:37] FGINumber: 9217 - Entered  -  OD_ID: 10402860
+[22-Mar-2012 11:42:37] FGINumber: 9217 - Entered  -  OD_ID: 10402861
+[22-Mar-2012 11:42:38] FGINumber: 9217 - Entered  -  OD_ID: 10402862
+[22-Mar-2012 11:42:38] FGINumber: 9217 - Entered  -  OD_ID: 10402863
+[22-Mar-2012 11:42:39] FGINumber: 9217 - Entered  -  OD_ID: 10402864
+[22-Mar-2012 11:42:39] FGINumber: 9217 - Entered  -  OD_ID: 10402865
+[22-Mar-2012 11:42:40] FGINumber: 9217 - Entered  -  OD_ID: 10402866
+[22-Mar-2012 11:42:40] FGINumber: 9217 - Entered  -  OD_ID: 10402867
+[22-Mar-2012 11:44:06] File download successful for JT-27232
+[22-Mar-2012 11:44:07] File download successful for JT-27233
+[22-Mar-2012 11:44:09] File download successful for JT-27234
+[22-Mar-2012 11:44:10] File download successful for JT-27235
+[22-Mar-2012 11:48:00] XML creation success : JT-27232
+[22-Mar-2012 11:48:03] XML creation success : JT-27233
+[22-Mar-2012 11:48:03] XML creation success : JT-27234
+[22-Mar-2012 11:48:03] XML creation success : JT-27235
+[22-Mar-2012 11:48:04] XML creation success : JT-27236
+[22-Mar-2012 11:48:04] XML creation success : JT-27237
+[22-Mar-2012 11:48:04] XML creation success : JT-27238
+[22-Mar-2012 11:48:04] XML creation success : JT-27239
+[22-Mar-2012 11:48:05] XML creation success : JT-27240
+[22-Mar-2012 11:48:05] XML creation success : JT-27241
+[22-Mar-2012 11:48:05] XML creation success : JT-27242
+[22-Mar-2012 11:48:05] XML creation success : JT-27243
+[22-Mar-2012 11:48:06] XML creation success : JT-27244
+[22-Mar-2012 11:48:06] XML creation success : JT-27245
+[22-Mar-2012 11:48:06] XML creation success : JT-27246
+[22-Mar-2012 11:48:06] XML creation success : JT-27247
+[22-Mar-2012 11:48:07] XML creation success : JT-27248
+[22-Mar-2012 11:48:07] XML creation success : JT-27249
+[22-Mar-2012 11:48:07] XML creation success : JT-27250
+[22-Mar-2012 11:48:08] XML creation success : JT-27251
+[22-Mar-2012 11:48:08] XML creation success : JT-27252
+[22-Mar-2012 11:48:08] XML creation success : JT-27253
+[22-Mar-2012 12:40:24] ( Order Number: 322201283039  ) => ( Cummins ) => ( Order_ID: 3972220 ) => Entered
+[22-Mar-2012 12:40:24] ( Order Number: Lawrenceburg ) => ( novia ) => ( Order_ID: 3972333 ) => Entered
+[22-Mar-2012 12:40:24] ( Order Number: 175590 ) => ( RocheCorp ) => ( Order_ID: 3972342 ) => Entered
+[22-Mar-2012 12:40:24] ( Order Number: PO-7549 ) => ( RollsRoyce ) => ( Order_ID: 3972458 ) => Entered
+[22-Mar-2012 12:42:25] JT DueDate Changed - Before: 2012-03-22T00:00:00  (JT-27258)
+[22-Mar-2012 12:42:25] FGINumber: 9218 - Entered  -  OD_ID: 10403167
+[22-Mar-2012 12:42:26] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27254 - New FGINumber - 9218
+[22-Mar-2012 12:42:26] FGINumber: 9218 - Entered  -  OD_ID: 10403168
+[22-Mar-2012 12:42:27] FGINumber: 9218 - Entered  -  OD_ID: 10403169
+[22-Mar-2012 12:42:27] JobN: 104594 - Entered
+[22-Mar-2012 12:42:27] Email sent to: printableajt@finelink.com - JT-27257 - New JobN - 104594
+[22-Mar-2012 12:42:27] Refill Item: 1086 
+[22-Mar-2012 12:42:28] Refill Order
+[22-Mar-2012 12:42:28] PHP Warning:  mssql_query(): message: Conversion failed when converting the varchar value '1086 ' to data type int. (severity 16) in C:\webs\printable\printable_to_logic\insert_logic.php on line 269
+[22-Mar-2012 12:42:28] PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 269
+[22-Mar-2012 12:42:28] PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "FK_CT_Job_JobNOpenJob". The conflict occurred in database "pLogic", table "dbo.OpenJob", column 'JobN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_logic.php on line 276
+[22-Mar-2012 12:42:28] PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 276
+[22-Mar-2012 12:42:28] PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_JobShipmentsOpenJob". The conflict occurred in database "pLogic", table "dbo.OpenJob", column 'JobN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_logic.php on line 365
+[22-Mar-2012 12:42:28] PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 365
+[22-Mar-2012 12:42:28] JobN: 104595 - Entered
+[22-Mar-2012 12:42:28] Email sent to: printableajt@finelink.com - JT-27258 - New JobN - 104595
+[22-Mar-2012 12:42:28] JobN: 104595 - Entered
+[22-Mar-2012 12:42:29] Email sent to: printableajt@finelink.com - JT-27259 - New JobN - 104595
+[22-Mar-2012 12:42:29] JobN: 104596 - Entered
+[22-Mar-2012 12:42:29] Email sent to: printableajt@finelink.com - JT-27260 - New JobN - 104596
+[22-Mar-2012 12:42:29] JobN: 104597 - Entered
+[22-Mar-2012 12:42:30] Email sent to: printableajt@finelink.com - JT-27261 - New JobN - 104597
+[22-Mar-2012 12:44:02] File download successful for JT-27257
+[22-Mar-2012 12:44:04] File download successful for JT-27259
+[22-Mar-2012 12:44:05] File download successful for JT-27260
+[22-Mar-2012 12:44:06] File download successful for JT-27261
+[22-Mar-2012 12:48:00] XML creation success : JT-27254
+[22-Mar-2012 12:48:01] XML creation success : JT-27255
+[22-Mar-2012 12:48:01] XML creation success : JT-27256
+[22-Mar-2012 12:48:01] XML creation success : JT-27257
+[22-Mar-2012 12:48:01] XML creation success : JT-27258
+[22-Mar-2012 12:48:02] XML creation success : JT-27259
+[22-Mar-2012 12:48:02] XML creation success : JT-27260
+[22-Mar-2012 12:48:02] XML creation success : JT-27261
+[22-Mar-2012 13:40:28] ( Order Number: PO-7550 ) => ( RollsRoyce ) => ( Order_ID: 3972490 ) => Entered
+[22-Mar-2012 13:40:28] ( Order Number: PO-7551 ) => ( RollsRoyce ) => ( Order_ID: 3972503 ) => Entered
+[22-Mar-2012 13:40:28] ( Order Number: PO-7552 ) => ( RollsRoyce ) => ( Order_ID: 3972521 ) => Entered
+[22-Mar-2012 13:42:28] FGINumber: 9219 - Entered  -  OD_ID: 10403643
+[22-Mar-2012 13:42:28] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27262 - New FGINumber - 9219
+[22-Mar-2012 13:42:28] JobN: 104598 - Entered
+[22-Mar-2012 13:42:29] Email sent to: printableajt@finelink.com - JT-27263 - New JobN - 104598
+[22-Mar-2012 13:42:29] JobN: 104599 - Entered
+[22-Mar-2012 13:42:29] Email sent to: printableajt@finelink.com - JT-27264 - New JobN - 104599
+[22-Mar-2012 13:42:30] JobN: 104600 - Entered
+[22-Mar-2012 13:42:30] Email sent to: printableajt@finelink.com - JT-27265 - New JobN - 104600
+[22-Mar-2012 13:44:02] File download successful for JT-27263
+[22-Mar-2012 13:44:04] File download successful for JT-27264
+[22-Mar-2012 13:44:05] File download successful for JT-27265
+[22-Mar-2012 13:48:00] XML creation success : JT-27262
+[22-Mar-2012 13:48:01] XML creation success : JT-27263
+[22-Mar-2012 13:48:01] XML creation success : JT-27264
+[22-Mar-2012 13:48:02] XML creation success : JT-27265
+[22-Mar-2012 14:40:30] ( Order Number: PO-7553 ) => ( RollsRoyce ) => ( Order_ID: 3972734 ) => Entered
+[22-Mar-2012 14:42:26] JobN: 104602 - Entered
+[22-Mar-2012 14:42:27] Email sent to: printableajt@finelink.com - JT-27266 - New JobN - 104602
+[22-Mar-2012 14:44:03] File download successful for JT-27266
+[22-Mar-2012 14:48:01] XML creation success : JT-27266
+[22-Mar-2012 15:40:30] ( Order Number: Pcard-416 ) => ( IkonRiverview ) => ( Order_ID: 3973052 ) => Entered
+[22-Mar-2012 15:40:30] ( Order Number: Pcard-417 ) => ( IkonRiverview ) => ( Order_ID: 3973149 ) => Entered
+[22-Mar-2012 15:42:28] JobN: 104605 - Entered
+[22-Mar-2012 15:42:28] Email sent to: printableajt@finelink.com - JT-27267 - New JobN - 104605
+[22-Mar-2012 15:42:29] JobN: 104606 - Entered
+[22-Mar-2012 15:42:29] Email sent to: printableajt@finelink.com - JT-27268 - New JobN - 104606
+[22-Mar-2012 15:42:29] JobN: 104607 - Entered
+[22-Mar-2012 15:42:29] Email sent to: printableajt@finelink.com - JT-27269 - New JobN - 104607
+[22-Mar-2012 15:42:30] JobN: 104608 - Entered
+[22-Mar-2012 15:42:30] Email sent to: printableajt@finelink.com - JT-27270 - New JobN - 104608
+[22-Mar-2012 15:42:30] JobN: 104609 - Entered
+[22-Mar-2012 15:42:31] Email sent to: printableajt@finelink.com - JT-27271 - New JobN - 104609
+[22-Mar-2012 15:44:03] File download successful for JT-27267
+[22-Mar-2012 15:44:04] File download successful for JT-27268
+[22-Mar-2012 15:44:06] File download successful for JT-27269
+[22-Mar-2012 15:44:08] File download successful for JT-27270
+[22-Mar-2012 15:48:00] XML creation success : JT-27267
+[22-Mar-2012 15:48:01] XML creation success : JT-27268
+[22-Mar-2012 15:48:01] XML creation success : JT-27269
+[22-Mar-2012 15:48:01] XML creation success : JT-27270
+[22-Mar-2012 15:48:02] XML creation success : JT-27271
+[22-Mar-2012 16:40:42] ( Order Number: IND2064718 ) => ( Cummins ) => ( Order_ID: 3973297 ) => Entered
+[22-Mar-2012 16:40:42] ( Order Number: IND2064748 ) => ( Cummins ) => ( Order_ID: 3973423 ) => Entered
+[22-Mar-2012 16:40:42] ( Order Number: IND2064766 ) => ( Cummins ) => ( Order_ID: 3973427 ) => Entered
+[22-Mar-2012 16:42:31] JobN: 104616 - Entered
+[22-Mar-2012 16:42:31] Email sent to: printableajt@finelink.com - JT-27272 - New JobN - 104616
+[22-Mar-2012 16:42:32] JobN: 104617 - Entered
+[22-Mar-2012 16:42:32] Email sent to: printableajt@finelink.com - JT-27273 - New JobN - 104617
+[22-Mar-2012 16:42:32] JobN: 104618 - Entered
+[22-Mar-2012 16:42:32] Email sent to: printableajt@finelink.com - JT-27274 - New JobN - 104618
+[22-Mar-2012 16:42:33] JobN: 104619 - Entered
+[22-Mar-2012 16:42:33] Email sent to: printableajt@finelink.com - JT-27275 - New JobN - 104619
+[22-Mar-2012 16:44:02] File download successful for JT-27272
+[22-Mar-2012 16:44:04] File download successful for JT-27273
+[22-Mar-2012 16:44:05] File download successful for JT-27274
+[22-Mar-2012 16:44:06] File download successful for JT-27275
+[22-Mar-2012 16:48:00] XML creation success : JT-27272
+[22-Mar-2012 16:48:01] XML creation success : JT-27273
+[22-Mar-2012 16:48:01] XML creation success : JT-27274
+[22-Mar-2012 16:48:02] XML creation success : JT-27275
+[22-Mar-2012 17:40:37] ( Order Number: IND2064779 ) => ( Cummins ) => ( Order_ID: 3973535 ) => Entered
+[22-Mar-2012 17:40:37] ( Order Number: IND2064811 ) => ( Cummins ) => ( Order_ID: 3973619 ) => Entered
+[22-Mar-2012 17:42:27] JobN: 104622 - Entered
+[22-Mar-2012 17:42:28] Email sent to: printableajt@finelink.com - JT-27276 - New JobN - 104622
+[22-Mar-2012 17:42:28] JobN: 104623 - Entered
+[22-Mar-2012 17:42:28] Email sent to: printableajt@finelink.com - JT-27277 - New JobN - 104623
+[22-Mar-2012 17:44:02] File download successful for JT-27276
+[22-Mar-2012 17:44:03] File download successful for JT-27277
+[22-Mar-2012 17:48:00] XML creation success : JT-27276
+[22-Mar-2012 17:48:01] XML creation success : JT-27277
+[22-Mar-2012 18:40:23] ( Order Number: IND2064840 ) => ( Cummins ) => ( Order_ID: 3973705 ) => Entered
+[22-Mar-2012 18:42:26] JobN: 104624 - Entered
+[22-Mar-2012 18:42:26] Email sent to: printableajt@finelink.com - JT-27278 - New JobN - 104624
+[22-Mar-2012 18:44:02] File download successful for JT-27278
+[22-Mar-2012 18:48:00] XML creation success : JT-27278
+[23-Mar-2012 02:42:00] It's between the late night hours!!!
+[23-Mar-2012 08:40:21] ( Order Number: Goshen ) => ( novia ) => ( Order_ID: 3974107 ) => Entered
+[23-Mar-2012 08:40:21] ( Order Number: Symmetry ) => ( novia ) => ( Order_ID: 3974111 ) => Entered
+[23-Mar-2012 08:40:21] ( Order Number: IND2065284 ) => ( Cummins ) => ( Order_ID: 3974113 ) => Entered
+[23-Mar-2012 08:42:29] FGINumber: 9221 - Entered  -  OD_ID: 10407880
+[23-Mar-2012 08:42:30] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27279 - New FGINumber - 9221
+[23-Mar-2012 08:42:31] FGINumber: 9221 - Entered  -  OD_ID: 10407881
+[23-Mar-2012 08:42:31] FGINumber: 9222 - Entered  -  OD_ID: 10407888
+[23-Mar-2012 08:42:32] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27281 - New FGINumber - 9222
+[23-Mar-2012 08:42:32] JobN: 104626 - Entered
+[23-Mar-2012 08:42:32] Email sent to: printableajt@finelink.com - JT-27282 - New JobN - 104626
+[23-Mar-2012 08:42:33] JobN: 104627 - Entered
+[23-Mar-2012 08:42:33] Email sent to: printableajt@finelink.com - JT-27283 - New JobN - 104627
+[23-Mar-2012 08:44:02] File download successful for JT-27282
+[23-Mar-2012 08:44:04] File download successful for JT-27283
+[23-Mar-2012 08:48:03] XML creation success : JT-27279
+[23-Mar-2012 08:48:03] XML creation success : JT-27280
+[23-Mar-2012 08:48:03] XML creation success : JT-27281
+[23-Mar-2012 08:48:04] XML creation success : JT-27282
+[23-Mar-2012 08:48:04] XML creation success : JT-27283
+[23-Mar-2012 09:40:31] ( Order Number: IUH-1407 ) => ( iuhealth ) => ( Order_ID: 3974170 ) => Entered
+[23-Mar-2012 09:40:31] ( Order Number: IUH-1408 ) => ( iuhealth ) => ( Order_ID: 3974172 ) => Entered
+[23-Mar-2012 09:40:31] ( Order Number: YOC/KAC ) => ( novia ) => ( Order_ID: 3974214 ) => Entered
+[23-Mar-2012 09:40:31] ( Order Number: IND2065448 ) => ( Cummins ) => ( Order_ID: 3974279 ) => Entered
+[23-Mar-2012 09:42:31] FGINumber: 9223 - Entered  -  OD_ID: 10398234
+[23-Mar-2012 09:42:32] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27284 - New FGINumber - 9223
+[23-Mar-2012 09:42:32] FGINumber: 9224 - Entered  -  OD_ID: 10402841
+[23-Mar-2012 09:42:32] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27285 - New FGINumber - 9224
+[23-Mar-2012 09:42:33] FGINumber: 9225 - Entered  -  OD_ID: 10408140
+[23-Mar-2012 09:42:33] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27286 - New FGINumber - 9225
+[23-Mar-2012 09:42:34] JobN: 104629 - Entered
+[23-Mar-2012 09:42:34] Email sent to: printableajt@finelink.com - JT-27287 - New JobN - 104629
+[23-Mar-2012 09:44:04] File download successful for JT-27287
+[23-Mar-2012 09:48:01] XML creation success : JT-27287
+[23-Mar-2012 09:48:01] XML creation success : JT-27284
+[23-Mar-2012 09:48:01] XML creation success : JT-27286
+[23-Mar-2012 09:48:02] XML creation success : JT-27285
+[23-Mar-2012 10:40:24] ( Order Number: 175190 ) => ( RocheCorp ) => ( Order_ID: 3974355 ) => Entered
+[23-Mar-2012 10:40:24] ( Order Number: IND2065478 ) => ( Cummins ) => ( Order_ID: 3974356 ) => Entered
+[23-Mar-2012 10:40:24] ( Order Number: IND2065530 ) => ( Cummins ) => ( Order_ID: 3974445 ) => Entered
+[23-Mar-2012 10:40:24] ( Order Number: IND2065520 ) => ( Cummins ) => ( Order_ID: 3974447 ) => Entered
+[23-Mar-2012 10:40:24] ( Order Number: IND2065531 ) => ( Cummins ) => ( Order_ID: 3974448 ) => Entered
+[23-Mar-2012 10:42:27] JobN: 104635 - Entered
+[23-Mar-2012 10:42:27] Email sent to: printableajt@finelink.com - JT-27288 - New JobN - 104635
+[23-Mar-2012 10:42:28] JobN: 104636 - Entered
+[23-Mar-2012 10:42:28] Email sent to: printableajt@finelink.com - JT-27289 - New JobN - 104636
+[23-Mar-2012 10:42:28] JobN: 104637 - Entered
+[23-Mar-2012 10:42:28] Email sent to: printableajt@finelink.com - JT-27290 - New JobN - 104637
+[23-Mar-2012 10:42:28] JobN: 104638 - Entered
+[23-Mar-2012 10:42:29] Email sent to: printableajt@finelink.com - JT-27291 - New JobN - 104638
+[23-Mar-2012 10:42:29] JobN: 104639 - Entered
+[23-Mar-2012 10:42:29] Email sent to: printableajt@finelink.com - JT-27292 - New JobN - 104639
+[23-Mar-2012 10:44:02] File download successful for JT-27288
+[23-Mar-2012 10:44:03] File download successful for JT-27289
+[23-Mar-2012 10:44:05] File download successful for JT-27290
+[23-Mar-2012 10:44:07] File download successful for JT-27291
+[23-Mar-2012 10:44:08] File download successful for JT-27292
+[23-Mar-2012 10:48:00] XML creation success : JT-27288
+[23-Mar-2012 10:48:01] XML creation success : JT-27289
+[23-Mar-2012 10:48:01] XML creation success : JT-27290
+[23-Mar-2012 10:48:01] XML creation success : JT-27291
+[23-Mar-2012 10:48:01] XML creation success : JT-27292
+[23-Mar-2012 11:40:28] ( Order Number: 173500 ) => ( RocheCorp ) => ( Order_ID: 3974507 ) => Entered
+[23-Mar-2012 11:40:28] ( Order Number: 10470 ) => ( RocheCorp ) => ( Order_ID: 3974612 ) => Entered
+[23-Mar-2012 11:40:28] ( Order Number: IUH-1409 ) => ( iuhealth ) => ( Order_ID: 3974628 ) => Entered
+[23-Mar-2012 11:40:28] ( Order Number: IUH-1410 ) => ( iuhealth ) => ( Order_ID: 3974668 ) => Entered
+[23-Mar-2012 11:40:28] ( Order Number: 106740 ) => ( RocheCorp ) => ( Order_ID: 3974688 ) => Entered
+[23-Mar-2012 11:42:29] JobN: 104640 - Entered
+[23-Mar-2012 11:42:29] Email sent to: printableajt@finelink.com - JT-27293 - New JobN - 104640
+[23-Mar-2012 11:42:30] JobN: 104641 - Entered
+[23-Mar-2012 11:42:30] Email sent to: printableajt@finelink.com - JT-27294 - New JobN - 104641
+[23-Mar-2012 11:42:31] FGINumber: 9226 - Entered  -  OD_ID: 10409213
+[23-Mar-2012 11:42:31] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27295 - New FGINumber - 9226
+[23-Mar-2012 11:42:31] JobN: 104642 - Entered
+[23-Mar-2012 11:42:32] Email sent to: printableajt@finelink.com - JT-27296 - New JobN - 104642
+[23-Mar-2012 11:42:32] JobN: 104643 - Entered
+[23-Mar-2012 11:42:32] Email sent to: printableajt@finelink.com - JT-27297 - New JobN - 104643
+[23-Mar-2012 11:44:02] File download successful for JT-27294
+[23-Mar-2012 11:44:04] File download successful for JT-27293
+[23-Mar-2012 11:44:05] File download successful for JT-27297
+[23-Mar-2012 11:48:02] XML creation success : JT-27295
+[23-Mar-2012 11:48:02] XML creation success : JT-27294
+[23-Mar-2012 11:48:03] XML creation success : JT-27293
+[23-Mar-2012 11:48:03] XML creation success : JT-27296
+[23-Mar-2012 11:48:03] XML creation success : JT-27297
+[23-Mar-2012 12:40:25] ( Order Number: PO-7554 ) => ( RollsRoyce ) => ( Order_ID: 3974840 ) => Entered
+[23-Mar-2012 12:40:25] ( Order Number: IND2065766 ) => ( Cummins ) => ( Order_ID: 3974872 ) => Entered
+[23-Mar-2012 12:40:25] ( Order Number: IND2065777 ) => ( Cummins ) => ( Order_ID: 3974873 ) => Entered
+[23-Mar-2012 12:42:25] JobN: 104649 - Entered
+[23-Mar-2012 12:42:26] Email sent to: printableajt@finelink.com - JT-27298 - New JobN - 104649
+[23-Mar-2012 12:42:26] JobN: 104650 - Entered
+[23-Mar-2012 12:42:26] Email sent to: printableajt@finelink.com - JT-27299 - New JobN - 104650
+[23-Mar-2012 12:42:26] JobN: 104651 - Entered
+[23-Mar-2012 12:42:27] Email sent to: printableajt@finelink.com - JT-27300 - New JobN - 104651
+[23-Mar-2012 12:44:03] File download successful for JT-27298
+[23-Mar-2012 12:44:04] File download successful for JT-27299
+[23-Mar-2012 12:44:05] File download successful for JT-27300
+[23-Mar-2012 12:48:00] XML creation success : JT-27298
+[23-Mar-2012 12:48:02] XML creation success : JT-27299
+[23-Mar-2012 12:48:03] XML creation success : JT-27300
+[23-Mar-2012 13:40:32] ( Order Number: IND2065816 ) => ( Cummins ) => ( Order_ID: 3975050 ) => Entered
+[23-Mar-2012 13:40:32] ( Order Number: PO-7555 ) => ( RollsRoyce ) => ( Order_ID: 3975058 ) => Entered
+[23-Mar-2012 13:42:30] JobN: 104656 - Entered
+[23-Mar-2012 13:42:30] Email sent to: printableajt@finelink.com - JT-27301 - New JobN - 104656
+[23-Mar-2012 13:42:31] JobN: 104657 - Entered
+[23-Mar-2012 13:42:31] Email sent to: printableajt@finelink.com - JT-27302 - New JobN - 104657
+[23-Mar-2012 13:42:31] JobN: 104658 - Entered
+[23-Mar-2012 13:42:32] Email sent to: printableajt@finelink.com - JT-27303 - New JobN - 104658
+[23-Mar-2012 13:44:03] File download successful for JT-27301
+[23-Mar-2012 13:44:10] File download successful for JT-27303
+[23-Mar-2012 13:48:01] XML creation success : JT-27301
+[23-Mar-2012 13:48:01] XML creation success : JT-27302
+[23-Mar-2012 13:48:01] XML creation success : JT-27303
+[23-Mar-2012 14:08:45] Refill Item: 1086
+[23-Mar-2012 14:08:45] Refill Order
+[23-Mar-2012 14:08:46] JobN: 104662 - Entered
+[23-Mar-2012 14:08:46] Email sent to: printableajt@finelink.com - JT-27258 - New JobN - 104662
+[23-Mar-2012 14:08:46] JobN: 104663 - Entered
+[23-Mar-2012 14:08:46] Email sent to: printableajt@finelink.com - JT-27304 - New JobN - 104663
+[23-Mar-2012 14:08:47] JobN: 104664 - Entered
+[23-Mar-2012 14:08:47] Email sent to: printableajt@finelink.com - JT-27305 - New JobN - 104664
+[23-Mar-2012 14:08:47] JobN: 104665 - Entered
+[23-Mar-2012 14:08:48] Email sent to: printableajt@finelink.com - JT-27306 - New JobN - 104665
+[23-Mar-2012 14:08:48] JobN: 104666 - Entered
+[23-Mar-2012 14:08:48] Email sent to: printableajt@finelink.com - JT-27307 - New JobN - 104666
+[23-Mar-2012 14:08:48] JobN: 104667 - Entered
+[23-Mar-2012 14:08:49] Email sent to: printableajt@finelink.com - JT-27308 - New JobN - 104667
+[23-Mar-2012 14:08:49] JobN: 104668 - Entered
+[23-Mar-2012 14:08:49] Email sent to: printableajt@finelink.com - JT-27309 - New JobN - 104668
+[23-Mar-2012 14:08:50] JobN: 104669 - Entered
+[23-Mar-2012 14:08:50] Email sent to: printableajt@finelink.com - JT-27310 - New JobN - 104669
+[23-Mar-2012 14:08:50] JobN: 104670 - Entered
+[23-Mar-2012 14:08:50] Email sent to: printableajt@finelink.com - JT-27311 - New JobN - 104670
+[23-Mar-2012 14:08:51] JobN: 104671 - Entered
+[23-Mar-2012 14:08:51] Email sent to: printableajt@finelink.com - JT-27312 - New JobN - 104671
+[23-Mar-2012 14:08:51] JobN: 104672 - Entered
+[23-Mar-2012 14:08:52] Email sent to: printableajt@finelink.com - JT-27313 - New JobN - 104672
+[23-Mar-2012 14:40:33] ( Order Number: Nissin - Gombash ) => ( novia ) => ( Order_ID: 3975093 ) => Entered
+[23-Mar-2012 14:40:33] ( Order Number: Michele Berry ) => ( KeystoneMercy ) => ( Order_ID: 3975135 ) => Entered
+[23-Mar-2012 14:40:33] ( Order Number: IUH-1411 ) => ( iuhealth ) => ( Order_ID: 3975197 ) => Entered
+[23-Mar-2012 14:40:33] ( Order Number: IUH-1412 ) => ( iuhealth ) => ( Order_ID: 3975246 ) => Entered
+[23-Mar-2012 14:40:33] ( Order Number: IND2065860 ) => ( Cummins ) => ( Order_ID: 3975263 ) => Entered
+[23-Mar-2012 14:42:29] FGINumber: 9227 - Entered  -  OD_ID: 10390037
+[23-Mar-2012 14:42:30] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27314 - New FGINumber - 9227
+[23-Mar-2012 14:42:30] JobN: 104675 - Entered
+[23-Mar-2012 14:42:31] Email sent to: printableajt@finelink.com - JT-27315 - New JobN - 104675
+[23-Mar-2012 14:42:31] JobN: 104676 - Entered
+[23-Mar-2012 14:42:31] Email sent to: printableajt@finelink.com - JT-27316 - New JobN - 104676
+[23-Mar-2012 14:44:03] File download successful for JT-27304
+[23-Mar-2012 14:44:04] File download successful for JT-27305
+[23-Mar-2012 14:44:06] File download successful for JT-27306
+[23-Mar-2012 14:44:07] File download successful for JT-27307
+[23-Mar-2012 14:44:08] File download successful for JT-27308
+[23-Mar-2012 14:44:09] File download successful for JT-27309
+[23-Mar-2012 14:44:10] File download successful for JT-27310
+[23-Mar-2012 14:44:12] File download successful for JT-27311
+[23-Mar-2012 14:44:13] File download successful for JT-27312
+[23-Mar-2012 14:44:16] File download successful for JT-27313
+[23-Mar-2012 14:44:21] File download successful for JT-27316
+[23-Mar-2012 14:48:00] XML creation success : JT-27304
+[23-Mar-2012 14:48:01] XML creation success : JT-27305
+[23-Mar-2012 14:48:02] XML creation success : JT-27306
+[23-Mar-2012 14:48:03] XML creation success : JT-27307
+[23-Mar-2012 14:48:03] XML creation success : JT-27308
+[23-Mar-2012 14:48:03] XML creation success : JT-27309
+[23-Mar-2012 14:48:03] XML creation success : JT-27310
+[23-Mar-2012 14:48:04] XML creation success : JT-27311
+[23-Mar-2012 14:48:04] XML creation success : JT-27312
+[23-Mar-2012 14:48:04] XML creation success : JT-27313
+[23-Mar-2012 14:48:04] XML creation success : JT-27314
+[23-Mar-2012 14:48:04] XML creation success : JT-27315
+[23-Mar-2012 14:48:05] XML creation success : JT-27316
+[23-Mar-2012 15:40:40] ( Order Number: PO-7559 ) => ( RollsRoyce ) => ( Order_ID: 3975366 ) => Entered
+[23-Mar-2012 15:40:40] ( Order Number: IND2065902 ) => ( Cummins ) => ( Order_ID: 3975490 ) => Entered
+[23-Mar-2012 15:42:30] JobN: 104683 - Entered
+[23-Mar-2012 15:42:31] Email sent to: printableajt@finelink.com - JT-27317 - New JobN - 104683
+[23-Mar-2012 15:42:31] JobN: 104684 - Entered
+[23-Mar-2012 15:42:31] Email sent to: printableajt@finelink.com - JT-27318 - New JobN - 104684
+[23-Mar-2012 15:44:08] File download successful for JT-27317
+[23-Mar-2012 15:44:10] File download successful for JT-27318
+[23-Mar-2012 15:48:00] XML creation success : JT-27317
+[23-Mar-2012 15:48:01] XML creation success : JT-27318
+[23-Mar-2012 16:40:30] ( Order Number: IND2065921 ) => ( Cummins ) => ( Order_ID: 3975636 ) => Entered
+[23-Mar-2012 16:40:30] ( Order Number: PO-3709 ) => ( Carpenter ) => ( Order_ID: 3975762 ) => Entered
+[23-Mar-2012 16:42:29] FGINumber: 9228 - Entered  -  OD_ID: 10412043
+[23-Mar-2012 16:42:29] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27319 - New FGINumber - 9228
+[23-Mar-2012 16:42:30] FGINumber: 9229 - Entered  -  OD_ID: 10412277
+[23-Mar-2012 16:42:30] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-27320 - New FGINumber - 9229
+[23-Mar-2012 16:48:00] XML creation success : JT-27319
+[23-Mar-2012 16:48:01] XML creation success : JT-27320
+[24-Mar-2012 02:42:00] It's between the late night hours!!!
+[24-Mar-2012 22:40:22] ( Order Number: IND2066359 ) => ( Cummins ) => ( Order_ID: 3976532 ) => Entered
+[24-Mar-2012 22:42:27] JobN: 104687 - Entered
+[24-Mar-2012 22:42:27] Email sent to: printableajt@finelink.com - JT-27321 - New JobN - 104687
+[24-Mar-2012 22:44:03] File download successful for JT-27321
+[24-Mar-2012 22:48:03] XML creation success : JT-27321
+[25-Mar-2012 02:42:03] It's between the late night hours!!!
+[25-Mar-2012 14:40:17] ( Order Number: IND2066430 ) => ( Cummins ) => ( Order_ID: 3976614 ) => Entered
+[25-Mar-2012 14:42:16] JT DueDate Changed - Before: 2012-03-23T00:00:00  (JT-27322)
+[25-Mar-2012 14:42:16] JobN: 104688 - Entered
+[25-Mar-2012 14:42:17] Email sent to: printableajt@finelink.com - JT-27322 - New JobN - 104688
+[25-Mar-2012 14:44:03] File download successful for JT-27322
+[25-Mar-2012 14:48:03] XML creation success : JT-27322
+[26-Mar-2012 01:40:18] ( Order Number: IND2066508 ) => ( Cummins ) => ( Order_ID: 3976790 ) => Entered
+[26-Mar-2012 01:42:19] JobN: 104689 - Entered
+[26-Mar-2012 01:42:19] Email sent to: printableajt@finelink.com - JT-27323 - New JobN - 104689
+[26-Mar-2012 01:44:03] File download successful for JT-27323
+[26-Mar-2012 01:48:02] XML creation success : JT-27323
+[26-Mar-2012 02:42:00] It's between the late night hours!!!
+[26-Mar-2012 07:40:15] ( Order Number: IND2066735 ) => ( Cummins ) => ( Order_ID: 3976804 ) => Entered
+[26-Mar-2012 07:40:15] ( Order Number: Jan Moninger CC ) => ( cumminscentralpower ) => ( Order_ID: 3976816 ) => Entered
+[26-Mar-2012 07:42:15] JT DueDate Changed - Before: 2012-03-16T00:00:00  (JT-27324)
+[26-Mar-2012 07:42:15] JT DueDate Changed - Before: 2012-03-16T00:00:00  (JT-27325)
+[26-Mar-2012 07:42:15] JT DueDate Changed - Before: 2012-03-16T00:00:00  (JT-27326)
+[26-Mar-2012 07:42:15] JT DueDate Changed - Before: 2012-03-16T00:00:00  (JT-27327)
+[26-Mar-2012 07:42:15] JT DueDate Changed - Before: 2012-03-16T00:00:00  (JT-27328)
+[26-Mar-2012 07:42:15] JT DueDate Changed - Before: 2012-03-16T00:00:00  (JT-27329)
+[26-Mar-2012 07:42:16] JobN: 104691 - Entered
+[26-Mar-2012 07:42:16] Email sent to: printableajt@finelink.com - JT-27324 - New JobN - 104691
+[26-Mar-2012 07:42:17] JobN: 104692 - Entered
+[26-Mar-2012 07:42:17] Email sent to: printableajt@finelink.com - JT-27325 - New JobN - 104692
+[26-Mar-2012 07:42:17] JobN: 104693 - Entered
+[26-Mar-2012 07:42:17] Email sent to: printableajt@finelink.com - JT-27326 - New JobN - 104693
+[26-Mar-2012 07:42:18] JobN: 104694 - Entered
+[26-Mar-2012 07:42:18] Email sent to: printableajt@finelink.com - JT-27327 - New JobN - 104694
+[26-Mar-2012 07:42:18] JobN: 104695 - Entered
+[26-Mar-2012 07:42:19] Email sent to: printableajt@finelink.com - JT-27328 - New JobN - 104695
+[26-Mar-2012 07:42:19] JobN: 104696 - Entered
+[26-Mar-2012 07:42:19] Email sent to: printableajt@finelink.com - JT-27329 - New JobN - 104696
+[26-Mar-2012 07:42:20] JobN: 104697 - Entered
+[26-Mar-2012 07:42:20] Email sent to: printableajt@finelink.com - JT-27330 - New JobN - 104697
+[26-Mar-2012 07:42:20] JobN: 104698 - Entered
+[26-Mar-2012 07:42:21] Email sent to: printableajt@finelink.com - JT-27331 - New JobN - 104698
+[26-Mar-2012 07:44:02] File download successful for JT-27324
+[26-Mar-2012 07:44:03] File download successful for JT-27325
+[26-Mar-2012 07:44:05] File download successful for JT-27326
+[26-Mar-2012 07:44:06] File download successful for JT-27327
+[26-Mar-2012 07:44:07] File download successful for JT-27328
+[26-Mar-2012 07:44:09] File download successful for JT-27329
+[26-Mar-2012 07:44:10] File download successful for JT-27330
+[26-Mar-2012 07:44:11] File download successful for JT-27331
+[26-Mar-2012 07:48:00] XML creation success : JT-27324
+[26-Mar-2012 07:48:01] XML creation success : JT-27325
+[26-Mar-2012 07:48:01] XML creation success : JT-27326
+[26-Mar-2012 07:48:01] XML creation success : JT-27327
+[26-Mar-2012 07:48:01] XML creation success : JT-27328
+[26-Mar-2012 07:48:02] XML creation success : JT-27329
+[26-Mar-2012 07:48:02] XML creation success : JT-27330
+[26-Mar-2012 07:48:02] XML creation success : JT-27331
+[26-Mar-2012 08:40:10] ( Order Number: 3262012459510 ) => ( cumminscrosspoint ) => ( Order_ID: 3976826 ) => Entered
+[26-Mar-2012 08:40:10] ( Order Number: K-1052 ) => ( koorsen ) => ( Order_ID: 3976833 ) => Entered
+[26-Mar-2012 08:40:10] ( Order Number: PO-7560 ) => ( RollsRoyce ) => ( Order_ID: 3976860 ) => Entered
+[26-Mar-2012 08:40:10] ( Order Number: K-1053 ) => ( koorsen ) => ( Order_ID: 3976863 ) => Entered
+[26-Mar-2012 08:42:10] JT DueDate Changed - Before: 2012-03-26T00:00:00  (JT-27333)
+[26-Mar-2012 08:42:11] JobN: 104701 - Entered
+[26-Mar-2012 08:42:11] Email sent to: printableajt@finelink.com - JT-27332 - New JobN - 104701
+[26-Mar-2012 08:42:11] JobN: 104702 - Entered
+[26-Mar-2012 08:42:12] Email sent to: printableajt@finelink.com - JT-27333 - New JobN - 104702
+[26-Mar-2012 08:42:12] JobN: 104703 - Entered
+[26-Mar-2012 08:42:12] Email sent to: printableajt@finelink.com - JT-27334 - New JobN - 104703
+[26-Mar-2012 08:42:12] JobN: 104704 - Entered
+[26-Mar-2012 08:42:13] Email sent to: printableajt@finelink.com - JT-27335 - New JobN - 104704
+[26-Mar-2012 08:42:13] JobN: 104705 - Entered
+[26-Mar-2012 08:42:13] Email sent to: printableajt@finelink.com - JT-27336 - New JobN - 104705
+[26-Mar-2012 08:44:02] File download successful for JT-27332
+[26-Mar-2012 08:44:13] File download successful for JT-27333
+[26-Mar-2012 08:44:14] File download successful for JT-27334
+[26-Mar-2012 08:44:32] File download successful for JT-27335
+[26-Mar-2012 08:44:34] File download successful for JT-27336
+[26-Mar-2012 08:48:03] XML creation success : JT-27332
+[26-Mar-2012 08:48:03] XML creation success : JT-27333
+[26-Mar-2012 08:48:03] XML creation success : JT-27334
+[26-Mar-2012 08:48:04] XML creation success : JT-27335
+[26-Mar-2012 08:48:04] XML creation success : JT-27336
+[26-Mar-2012 09:40:14] ( Order Number: PO-7561 ) => ( RollsRoyce ) => ( Order_ID: 3976867 ) => Entered
+[26-Mar-2012 09:40:15] ( Order Number: IND2066862 ) => ( Cummins ) => ( Order_ID: 3976900 ) => Entered
+[26-Mar-2012 09:40:15] ( Order Number: IND2066927 ) => ( Cummins ) => ( Order_ID: 3976965 ) => Entered
+[26-Mar-2012 09:42:11] JobN: 104707 - Entered
+[26-Mar-2012 09:42:12] Email sent to: printableajt@finelink.com - JT-27337 - New JobN - 104707
+[26-Mar-2012 09:42:12] JobN: 104708 - Entered
+[26-Mar-2012 09:42:12] Email sent to: printableajt@finelink.com - JT-27338 - New JobN - 104708
+[26-Mar-2012 09:44:09] File download successful for JT-27337
+[26-Mar-2012 09:44:10] File download successful for JT-27338
+[26-Mar-2012 09:48:01] XML creation success : JT-27337
+[26-Mar-2012 09:48:01] XML creation success : JT-27338

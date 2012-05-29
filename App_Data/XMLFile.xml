@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UPSbody>
+    <Shipments>
+        <ShipmentDetail>
+            <ShipmentNumber>111111</ShipmentNumber>
+            <TrackingNumber>1Z111111111</TrackingNumber>
+            <LogicShipmentNumber>111111</LogicShipmentNumber>
+            <ExceptionDetail>REASON 1</ExceptionDetail>
+            <ExceptionCost>11.00</ExceptionCost>
+            <DateShipped>05/01/2012</DateShipped>
+        </ShipmentDetail>
+        <ShipmentDetail>
+            <ShipmentNumber>222222</ShipmentNumber>
+            <TrackingNumber>1Z222222222</TrackingNumber>
+            <LogicShipmentNumber>222222</LogicShipmentNumber>
+            <ExceptionDetail>REASON 2</ExceptionDetail>
+            <DateShipped>05/02/2012</DateShipped>
+        </ShipmentDetail>
+        <ShipmentDetail>
+            <ShipmentNumber>333333</ShipmentNumber>
+            <TrackingNumber>1Z333333333</TrackingNumber>
+            <LogicShipmentNumber>333333</LogicShipmentNumber>
+            <ExceptionDetail>REASON 3</ExceptionDetail>
+            <ExceptionCost>13.00</ExceptionCost>
+            <DateShipped>05/03/3013</DateShipped>
+        </ShipmentDetail>
+        <ShipmentDetail>
+            <ShipmentNumber>444444</ShipmentNumber>
+            <TrackingNumber>1Z444444444</TrackingNumber>
+            <ExceptionDetail>REASON 4</ExceptionDetail>
+            <ExceptionCost>14.00</ExceptionCost>
+            <DateShipped>05/04/4014</DateShipped>
+        </ShipmentDetail>
+        <ShipmentDetail>
+            <ShipmentNumber>555555</ShipmentNumber>
+            <TrackingNumber>1Z555555555</TrackingNumber>
+            <LogicShipmentNumber>555555</LogicShipmentNumber>
+            <ExceptionDetail>REASON 5</ExceptionDetail>
+            <ExceptionCost>15.00</ExceptionCost>
+            <DateShipped>05/05/5015</DateShipped>
+        </ShipmentDetail>
+    </Shipments>
+</UPSbody>

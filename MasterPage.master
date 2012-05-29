@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" type="text/css" href="<%= Page.ResolveUrl("~")%>Resources/styles.css" />
+    <asp:ContentPlaceHolder id="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <div class="header">
+        <a href="<%= Page.ResolveUrl("~")%>Default.aspx"><img alt="Fineline Development" src="<%= Page.ResolveUrl("~")%>Resources/FinelineDev-01.png" style="width: 288px; height: 126px" /></a>
+    </div>
+            
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    
+    </form>
+</body>
+</html>
